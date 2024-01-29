@@ -19,7 +19,9 @@ public class Poly {
 		 a = new child1();
 		a.print();
 		a = new child2();
-		a.print();
+		a.print();//ddd
+		
+		
 		
 	}
 
